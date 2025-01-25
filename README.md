@@ -96,4 +96,9 @@ Once both the backend and frontend servers are running:
 - requirements.txt: Lists Python dependencies for the backend.
 - package.json: Lists JavaScript dependencies for the frontend.
 
+## Project Demonstration
+click the image to watch video demonstration
+[![Demo Video](images/thumbnail.png)](https://drive.google.com/file/d/1xySCE7QLMmfa02cXi1XwyFTyD0-fqBgY/view?usp=sharing)
+
+
 
